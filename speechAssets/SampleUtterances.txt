@@ -1,0 +1,3 @@
+YesIntent ja
+NoIntent nein
+AMAZON.StopIntent stop
